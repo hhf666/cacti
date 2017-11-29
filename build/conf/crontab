@@ -1,0 +1,1 @@
+*/1 * * * * apache php /usr/local/cacti/poller.php --force > /dev/null 2>&1
